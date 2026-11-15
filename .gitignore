@@ -1,0 +1,31 @@
+node_modules/
+dist/
+.env
+*.env
+.DS_Store
+*.log
+
+# Postman collections & environments (never commit)
+*postman_collection*
+*postman_environment*
+postman/
+
+# mTLS certificates, keys & APKs (never commit)
+certs/
+*.pfx
+*.p12
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.apk
+*.xapk
+*.apks
+
+# Auth tokens, store state & browser profiles (never commit)
+tokens.json
+tokens*.json
+.tokens.*
+store.json
+.browser_profile/
