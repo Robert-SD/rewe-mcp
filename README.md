@@ -182,6 +182,10 @@ npm test        # Run offline test suite via node:test + tsx
 
 All unit and integration tests run offline with mocked HTTP / mTLS fixtures. No REWE credentials or external network calls are required.
 
+## Disclaimer
+
+This project is an unofficial, community-maintained Model Context Protocol (MCP) server. It is not affiliated with, endorsed by, or sponsored by REWE Markt GmbH or its subsidiaries. All trademarks and brand names belong to their respective owners.
+
 ## License
 
 MIT
